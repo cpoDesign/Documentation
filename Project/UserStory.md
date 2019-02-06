@@ -3,11 +3,19 @@ User story requirements
 Every userstory has to have the following
 
 1. What is required to be delivered
+   - Clearly defined the requirements defined 
+   - 
 1. What are the dependencies
+   - Does this story depends on any other work
+      - Has the work been delivered?
+   - 
 1. What is the scope of the work
 
-1. How it can be tested
+1. Testing section
    - What is the scope of testing
+   - How it can be tested
+   - What is the level of automation
+   - Acceptance criteria clearly defined
 
 
 
