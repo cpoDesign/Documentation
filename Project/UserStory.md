@@ -16,7 +16,10 @@ Every userstory has to have the following
    - How it can be tested
    - What is the level of automation
    - Acceptance criteria clearly defined
-
+   - Cucumber
+      - Define test before it gets implemented
+   - Selenium testing
+      - 
 
 
 == What is required to be delivered
