@@ -4,7 +4,8 @@ Every userstory has to have the following
 
 1. What is required to be delivered
    - Clearly defined the requirements defined 
-   - 
+  
+     
 1. What are the dependencies
    - Does this story depends on any other work
       - Has the work been delivered?
@@ -18,7 +19,7 @@ Every userstory has to have the following
    - Acceptance criteria clearly defined
    - Cucumber
       - Define test before it gets implemented
-   - Selenium testing
+   - reqnroll testing
       - 
 
 
